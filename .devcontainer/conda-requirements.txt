@@ -1,0 +1,6 @@
+astropy
+poliastro
+orekit
+httpx
+sgp4
+python-kaleido
